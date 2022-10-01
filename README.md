@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+This is a just a fun remake of https://nyan.cat may it live for ever, but if not, it will go on as this open source project. Lets make it better! 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started
+
+this is being hosted at https://nyancat.pages.dev for now
 
 ## Available Scripts
 
